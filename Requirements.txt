@@ -1,0 +1,12 @@
+
+# Firstly Import all the libraries that are needed for 
+# import streamlit as st
+# from PIL import Image
+# import numpy as np
+# import tensorflow as tf
+# from keras.preprocessing.image import img_to_array
+# import cv2
+# import os
+
+
+# Basic Level of understanding about the Streamlit application 
